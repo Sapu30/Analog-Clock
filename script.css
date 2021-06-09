@@ -59,11 +59,11 @@
         }
         
         #circle {
-            width: 18px;
-            height: 18px;
+            width: 3%;
+            height: 3%;
             top: 50%;
-            left: 48.5%;
-            position: absolute;
+            left: 48.6%;
+            position: relative;
             background: white;
-            border-radius: 10px;
+            border-radius: 50%;
         }
